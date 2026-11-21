@@ -26,7 +26,7 @@ export function About() {
               </p>
             </div>
             <div className={styles.introCopy}>
-              <p className={`${styles.bio} ${styles.bioLead}`}>
+              <p className={`${styles.bio} ${styles.bioLead} ${styles.bioOneLine}`}>
                 저는 앱에서 문제가 생긴{" "}
                 <strong className={styles.emphasis}>원인</strong>을 찾고, 해결
                 방식을{" "}
