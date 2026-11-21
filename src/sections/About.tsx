@@ -27,40 +27,35 @@ export function About() {
             </div>
             <div className={styles.introCopy}>
               <p className={`${styles.bio} ${styles.bioLead}`}>
-                좋은 PM은{" "}
-                <strong className={styles.emphasis}>사용자의 문제</strong>를
-                정확히 이해하고 팀이{" "}
-                <strong className={styles.emphasis}>같은 방향</strong>을
-                바라보며{" "}
-                <strong className={styles.emphasis}>해결책</strong>을
-                만들어가도록 돕는 사람이라고 생각합니다.
+                저는 앱에서 문제가 생긴{" "}
+                <strong className={styles.emphasis}>원인</strong>을 찾고, 해결
+                방식을{" "}
+                <strong className={styles.emphasis}>선택한 이유</strong>를 팀에
+                설명할 수 있는 개발자가 되고 싶습니다.
               </p>
               <p className={styles.bio}>
-                가족 간 소통을 돕는 앱 ‘
+                가족 소통 앱 ‘
                 <strong className={styles.emphasis}>하루한번</strong>
                 ’을{" "}
-                <strong className={styles.emphasis}>팀 리더</strong>로서
-                기획하고 개발하며,
+                <strong className={styles.emphasis}>팀 리더</strong>로 이끌며{" "}
+                <strong className={styles.emphasis}>Flutter</strong>로 핵심
+                화면과 기능을 구현하고,
                 <br />
-                일상 속 문제를{" "}
-                <strong className={styles.emphasis}>구체적인 기능</strong>으로
-                구현하고 팀원들과 함께{" "}
+                팀원들과 함께{" "}
                 <strong className={styles.emphasis}>iOS 앱 출시</strong>까지
                 경험했습니다.
               </p>
               <p className={`${styles.bio} ${styles.bioOneLine}`}>
-                개발 경험을 통해{" "}
-                <strong className={styles.emphasis}>기술적 제약</strong>을
-                이해하는 동시에, 서비스의{" "}
-                <strong className={styles.emphasis}>방향성과 사용성</strong>을
-                함께 고민하는 역량을 길렀습니다.
+                디자이너·백엔드와 협업하며{" "}
+                <strong className={styles.emphasis}>실제 기기</strong>에서의
+                사용 경험을 다듬었고,{" "}
+                <strong className={styles.emphasis}>AI</strong>를 활용해 문제
+                해결과 학습 속도를 높여 왔습니다.
               </p>
               <p className={`${styles.bio} ${styles.bioClose}`}>
-                앞으로도{" "}
-                <strong className={styles.emphasis}>사용자와 팀</strong>의
-                관점을 연결하며{" "}
-                <strong className={styles.emphasis}>실질적인 가치</strong>를
-                만드는 PM이 되고 싶습니다.
+                넥스터즈에서 팀과 함께{" "}
+                <strong className={styles.emphasis}>iOS 앱</strong>을 만들며,
+                맡은 역할과 결과에 책임지는 개발자로 성장하고 싶습니다.
               </p>
             </div>
           </div>

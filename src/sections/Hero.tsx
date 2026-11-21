@@ -13,7 +13,7 @@ export function Hero() {
         <Reveal>
           <p className={styles.eyebrow}>
             <span className={styles.dot} aria-hidden="true" />
-            YAPP 29 · PM Portfolio
+            NEXTERS 30 · iOS Portfolio
           </p>
         </Reveal>
         <Reveal delay={0.05}>

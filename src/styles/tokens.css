@@ -1,5 +1,5 @@
 :root {
-  /* YAPP 29th Chemistry-inspired palette */
+  /* Portfolio palette */
   --color-bg: #f2f5f8;
   --color-bg-elevated: #ffffff;
   --color-bg-muted: #e8eef4;
@@ -19,7 +19,7 @@
   --color-border-strong: #a0a3a7;
   --color-ink: #181b1f;
 
-  /* Typography — Pretendard (YAPP site) */
+  /* Typography — Pretendard */
   --font-display: "Pretendard", "Apple SD Gothic Neo", system-ui, sans-serif;
   --font-body: "Pretendard", "Apple SD Gothic Neo", system-ui, sans-serif;
 

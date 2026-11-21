@@ -6,8 +6,8 @@ export const projects: ProjectDetail[] = [
     title: "하루한번",
     summary:
       "가족 상담과 상담 사이를 잇는 일일 질문·기록 앱. 수원시 건강가정지원센터와 협업.",
-    role: "팀장 · 백엔드 / 기획",
-    keywords: ["Flutter", "NestJS", "AWS", "가족 소통"],
+    role: "팀장 · Flutter / 백엔드",
+    keywords: ["Flutter", "iOS 출시", "NestJS", "가족 소통"],
     coverLabel: "하루한번 편지지",
     coverImage: "/projects/haru-once/logo.jpg",
     theme: "haru",
@@ -16,7 +16,7 @@ export const projects: ProjectDetail[] = [
     meta: [
       { label: "기간", value: "파란학기 · 재개발·개편 진행" },
       { label: "팀", value: "팀 하루한번 (프론트 1 · 백엔드/팀장 1)" },
-      { label: "역할", value: "팀장 · 백엔드 · 서비스 기획" },
+      { label: "역할", value: "팀장 · Flutter · 백엔드" },
       { label: "성과", value: "앱 개편 · iOS 출시 경험 · 센터 협업" },
     ],
     problem:
@@ -220,7 +220,7 @@ export const projects: ProjectDetail[] = [
       {
         type: "solution",
         section: "05 담당 분야",
-        title: "팀장 · PM으로서의 담당 분야",
+        title: "팀장 · 앱 개발자로서의 담당 분야",
         description:
           "기획부터 배포까지 일정 조율과 구현을 같이 담당했습니다.",
         items: [

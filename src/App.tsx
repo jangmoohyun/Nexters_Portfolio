@@ -31,7 +31,7 @@ export default function App() {
       {isPresentation ? null : (
         <footer className={styles.footer}>
           <div className="container">
-            <p>장무현 · YAPP PM Portfolio</p>
+            <p>장무현 · NEXTERS iOS Portfolio</p>
           </div>
         </footer>
       )}
