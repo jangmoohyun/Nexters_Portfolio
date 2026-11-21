@@ -1,26 +1,27 @@
 :root {
-  /* Portfolio palette */
-  --color-bg: #f2f5f8;
+  /* NEXTERS-inspired: shift together · expert · launch */
+  --color-bg: #f6f6f7;
   --color-bg-elevated: #ffffff;
-  --color-bg-muted: #e8eef4;
+  --color-bg-muted: #efeff0;
   --color-surface: #ffffff;
-  --color-text: #002859;
-  --color-text-strong: #07090b;
-  --color-text-muted: #4f5255;
-  --color-text-subtle: #85888c;
-  --color-accent: #ff8038;
-  --color-accent-soft: #ffdecc;
-  --color-accent-hover: #ff5c00;
-  --color-secondary: #0099ff;
-  --color-secondary-soft: #d6efff;
-  --color-secondary-deep: #0479ee;
-  --color-highlight: #ffe97b;
-  --color-border: #d7dadd;
-  --color-border-strong: #a0a3a7;
-  --color-ink: #181b1f;
+  --color-text: #212121;
+  --color-text-strong: #0e0e0e;
+  --color-text-muted: #575758;
+  --color-text-subtle: #949497;
+  --color-accent: #5374fa;
+  --color-accent-soft: #e8edff;
+  --color-accent-hover: #3d5ce8;
+  --color-secondary: #6a45ff;
+  --color-secondary-soft: #efeaff;
+  --color-secondary-deep: #5530e8;
+  --color-highlight: #ccf400;
+  --color-highlight-soft: #f3fbc0;
+  --color-border: #e2e2e3;
+  --color-border-strong: #c4c4c6;
+  --color-ink: #111111;
 
-  /* Typography — Pretendard */
-  --font-display: "Pretendard", "Apple SD Gothic Neo", system-ui, sans-serif;
+  /* Typography — Pretendard + SUIT (NEXTERS site) */
+  --font-display: "SUIT", "Pretendard", "Apple SD Gothic Neo", system-ui, sans-serif;
   --font-body: "Pretendard", "Apple SD Gothic Neo", system-ui, sans-serif;
 
   --text-xs: 0.75rem;
@@ -55,12 +56,12 @@
   --container: min(1120px, calc(100% - 2.5rem));
   --container-narrow: min(720px, calc(100% - 2.5rem));
 
-  /* Radius & shadow */
+  /* Radius & shadow — clean, precise */
   --radius-sm: 8px;
-  --radius-md: 16px;
-  --radius-lg: 24px;
-  --shadow-soft: 0 16px 40px rgba(0, 40, 89, 0.08);
-  --shadow-card: 0 8px 28px rgba(0, 40, 89, 0.06);
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --shadow-soft: 0 12px 32px rgba(14, 14, 14, 0.06);
+  --shadow-card: 0 4px 18px rgba(14, 14, 14, 0.04);
 
   /* Motion */
   --ease-out: cubic-bezier(0.22, 1, 0.36, 1);

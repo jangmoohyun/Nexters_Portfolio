@@ -3,7 +3,7 @@ import type { Profile } from "./types";
 export const profile: Profile = {
   name: "장무현",
   role: "iOS · 앱 개발",
-  tagline: "문제를 화면과 기능으로 구현하고, 선택한 이유를 설명하며 팀과 함께 출시까지 갑니다.",
+  tagline: "함께 만들고, 함께 다음으로. 문제를 화면과 기능으로 구현하고 출시까지 책임집니다.",
   birthYear: 2002,
   university: "아주대학교",
   department: "소프트웨어학과",

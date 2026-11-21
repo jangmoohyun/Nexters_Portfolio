@@ -13,7 +13,7 @@ export function Hero() {
         <Reveal>
           <p className={styles.eyebrow}>
             <span className={styles.dot} aria-hidden="true" />
-            NEXTERS 30 · iOS Portfolio
+            NEXTERS 30 · shift together
           </p>
         </Reveal>
         <Reveal delay={0.05}>
@@ -23,7 +23,7 @@ export function Hero() {
           </h1>
         </Reveal>
         <Reveal delay={0.1}>
-          <p className={`${styles.tagline} placeholder`}>{profile.tagline}</p>
+          <p className={styles.tagline}>{profile.tagline}</p>
         </Reveal>
         <Reveal delay={0.15}>
           <div className={styles.actions}>
@@ -38,10 +38,10 @@ export function Hero() {
       </div>
 
       <div className={styles.visual} aria-hidden="true">
-        <span className={`${styles.blob} ${styles.blobOrange}`} />
-        <span className={`${styles.blob} ${styles.blobBlue}`} />
-        <span className={`${styles.blob} ${styles.blobYellow}`} />
-        <span className={styles.ring} />
+        <span className={styles.shiftA} />
+        <span className={styles.shiftB} />
+        <span className={styles.orbit} />
+        <span className={styles.lime} />
       </div>
     </section>
   );

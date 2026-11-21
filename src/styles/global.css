@@ -19,9 +19,8 @@ body {
   letter-spacing: var(--tracking-tight);
   color: var(--color-text);
   background:
-    radial-gradient(900px 480px at 88% -8%, rgba(255, 128, 56, 0.14), transparent 55%),
-    radial-gradient(720px 420px at 0% 12%, rgba(0, 153, 255, 0.1), transparent 50%),
-    radial-gradient(560px 360px at 70% 40%, rgba(255, 233, 123, 0.18), transparent 55%),
+    radial-gradient(820px 420px at 92% -10%, rgba(83, 116, 250, 0.1), transparent 55%),
+    radial-gradient(640px 380px at 0% 8%, rgba(204, 244, 0, 0.12), transparent 50%),
     var(--color-bg);
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;

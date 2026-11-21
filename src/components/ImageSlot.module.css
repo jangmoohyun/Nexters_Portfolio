@@ -4,7 +4,7 @@
   width: 100%;
   border-radius: var(--radius-md);
   background:
-    linear-gradient(145deg, var(--color-secondary-soft), var(--color-accent-soft) 55%, var(--color-highlight));
+    linear-gradient(145deg, var(--color-accent-soft), var(--color-highlight-soft) 70%);
   border: 1px solid var(--color-border);
 }
 
