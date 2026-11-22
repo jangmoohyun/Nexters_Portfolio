@@ -96,7 +96,7 @@
   font-size: var(--text-sm);
   font-weight: 700;
   letter-spacing: 0.02em;
-  color: var(--color-accent);
+  color: var(--color-text-strong);
   text-align: center;
   word-break: keep-all;
   line-height: 1.45;
