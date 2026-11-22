@@ -33,15 +33,13 @@ export function About() {
                 <strong className={styles.emphasis}>선택한 이유</strong>를 팀에
                 설명할 수 있는 개발자가 되고 싶습니다.
               </p>
-              <p className={styles.bio}>
+              <p className={`${styles.bio} ${styles.bioOneLine}`}>
                 가족 소통 앱 ‘
                 <strong className={styles.emphasis}>하루한번</strong>
                 ’을{" "}
                 <strong className={styles.emphasis}>팀 리더</strong>로 이끌며{" "}
                 <strong className={styles.emphasis}>Flutter</strong>로 핵심
-                화면과 기능을 구현하고,
-                <br />
-                팀원들과 함께{" "}
+                화면과 기능을 구현하고, 팀원들과 함께{" "}
                 <strong className={styles.emphasis}>iOS 앱 출시</strong>까지
                 경험했습니다.
               </p>
